@@ -2,6 +2,6 @@
 
 ## My sub title
 
-PogChamp
+PogChampion
 ---
 BabyRage
