@@ -8,4 +8,4 @@ Journal Questions
 
 CoolSite github link
 
-https://github.com/gofortheeyezboo/CoolSite.git
+https://github.com/gofortheeyezboo/CoolSite
