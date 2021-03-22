@@ -56,7 +56,9 @@ module.exports = config({
         ...getSideBar('reflections/wk4', 'Asynchronous Code'),
         ...getSideBar('reflections/wk5', 'Servers with Node/Express'),
         ...getSideBar('reflections/wk6', 'Frontend Frameworks with Vue3'),
+        ...getSideBar('reflections/wk7', 'Pair Programming'),
         ...getSideBar('reflections/wk8', 'Working in a Professional Environment'),
+        ...getSideBar('reflections/wk9', 'Working in a Professional Environment 2'),
         ...getSideBar('reflections/wk10', 'Foundations of C#'),
         ...getSideBar('reflections/wk11', 'Dotnet WebApi\'s')
       ]
