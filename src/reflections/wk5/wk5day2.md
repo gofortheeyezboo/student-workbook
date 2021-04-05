@@ -3,7 +3,7 @@ What are the three types of relationships?
 One to one, one ot many, many to many.
 
 
-What are the benefits of the traditional linking of relationships instead of Embedding
+What are the benefits of the traditional linking of relationships instead of Embedding?
 
 The original document wont grow in size when linking so we can make bigger applications.
 
